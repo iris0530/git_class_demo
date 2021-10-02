@@ -1,5 +1,7 @@
 console.log('modified in local v2');
 console.log('modified in local v2');
+console.log('added in GitHub v2');
+console.log('added in GitHub v2');
 
 // get input dom
 const userInput = document.getElementById('user-input');
