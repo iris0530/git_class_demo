@@ -1,5 +1,5 @@
-console.log('added in GitHub');
-console.log('added in GitHub');
+console.log('added in GitHub v2');
+console.log('added in GitHub v2');
 
 // get input dom
 const userInput = document.getElementById('user-input');
